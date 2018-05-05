@@ -1,44 +1,5 @@
 # Native
 
-## Platform
-
-* [Captain Holetooth](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
-* [Commander Genius](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-* [Elemental One](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework. [Play it now!](http://skepsi.me/elemental-one/)
-* [Escape of the cat](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
-* [Frogatto](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
-* [Gish](https://github.com/blinry/gish) - Award-winning physics platformer.
-* [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
-* [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
-* [HFT Mario Party](https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
-* [Sky Engine](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
-* [The Legend of Edgar](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
-* [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
-* [SuperTux](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
-
-## Puzzle/card/board
-
-* [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
-* [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
-* [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
-* [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
-* [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
-* [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
-* [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
-* [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
-* [tictactoe](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
-* [Wizznic](https://github.com/DusteDdk/Wizznic) - Most awesome puzzle game.
-* [PokerTH](https://github.com/pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
-
-## Racing
-
-* [Stunt Rally](https://github.com/stuntrally/stuntrally) - Rally game with Track Editor, based on VDrift and OGRE.
-* [SuperTuxKart](https://github.com/supertuxkart/stk-code) - Free 3D kart racing game featuring open source mascots.
-
-## Programming
-
-* [CengBall](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
-
 ## Sandbox
 
 * [Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Sandbox game based on a molecular voxel interaction engine.
